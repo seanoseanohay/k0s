@@ -1,0 +1,19 @@
+schemas/k0s.json
+  s_9bd743989b4250::t_0b3d6259ade374 1093,1117,1157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5addd0678c19b2947a8d175df151027f422d2fd4",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

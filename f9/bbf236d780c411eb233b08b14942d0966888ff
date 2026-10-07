@@ -1,0 +1,25 @@
+.github/workflows/publish-docs.yml
+  s_9bd743989b4250::t_1065b3aaa2b967 58-63,80
+docs/Makefile
+  s_9bd743989b4250::t_f5b14d00251676 17-19,27-29,75-76,86-89
+docs/configuration.md
+  s_9bd743989b4250::t_9f5e3739d5ba9b 38-39,51-52,54
+internal/schemagen/testdata/cases.yaml
+  s_9bd743989b4250::t_856d32a5998bd0 2-4,8-24,26-27,29-33,41-55,59-72,77-84,86-153,156-158,160,162-210,216-236,242-266
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f9bbf236d780c411eb233b08b14942d0966888ff",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

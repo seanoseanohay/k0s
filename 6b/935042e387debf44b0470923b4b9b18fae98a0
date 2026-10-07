@@ -1,0 +1,23 @@
+.github/workflows/build-docs.yml
+  s_9bd743989b4250::t_386f786e284933 9,11,14-16,19,27,29,32-34,37
+cmd/root.go
+  s_9bd743989b4250::t_6f270aa652b512 88,91
+cmd/root_test.go
+  s_9bd743989b4250::t_0472e16b9d68de 8,12-13,152-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6b935042e387debf44b0470923b4b9b18fae98a0",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+cmd/root.go
+  s_9bd743989b4250::t_101f98236038d0 7-10,30,81-140,142-147,149-150,153-177
+cmd/root_test.go
+  s_9bd743989b4250::t_3ec898378d5962 67-69
+docs/Makefile
+  s_9bd743989b4250::t_1240e915e1219b 21-22,24-27,50-52,54,73,76,78,86-107,121
+docs/configuration.md
+  s_9bd743989b4250::t_cbb2963304473e 38-41,43-47,53-54,61-62,65-68,79-80
+internal/schemagen/legacy_test.go
+  s_9bd743989b4250::t_0235ed9bb54aa6 4,15,41-42,48,109,117,122,161-163,169-173
+internal/schemagen/schemagen.go
+  s_9bd743989b4250::t_ce6ae87a7e647b 4-5,10,13-16,18,20-21,24-27,30-44,46,49-62,64-65,68-82,84,86,88-105,107-118,121-125,127-132,138-163,177,186
+internal/schemagen/schemagen_test.go
+  s_9bd743989b4250::t_ce7b74922676c7 4-95
+internal/schemagen/testdata/cases.yaml
+  s_9bd743989b4250::t_43dd6b4716bf20 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9e8878953132ad06d861ee99d99eb3013bc89423",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

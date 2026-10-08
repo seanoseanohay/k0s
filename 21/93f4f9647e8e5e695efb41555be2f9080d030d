@@ -1,0 +1,20 @@
+cmd/controller/controller.go
+  h_a187b1a47af8c8 566
+pkg/component/controller/etcd.go
+  h_a187b1a47af8c8 310-312,315-321
+pkg/component/controller/metrics.go
+  h_a187b1a47af8c8 44,55,74,194-207,212
+pkg/component/controller/metrics_test.go
+  h_a187b1a47af8c8 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2193f4f9647e8e5e695efb41555be2f9080d030d",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

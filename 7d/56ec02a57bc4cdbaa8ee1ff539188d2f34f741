@@ -1,0 +1,60 @@
+cmd/api/api.go
+  h_a187b1a47af8c8 151,185,201
+cmd/etcd/leave.go
+  h_a187b1a47af8c8 50
+cmd/etcd/list.go
+  h_a187b1a47af8c8 42
+docs/configuration.md
+  h_a187b1a47af8c8 145-153
+docs/support-bundle-controller.yaml
+  h_a187b1a47af8c8 43,45,220
+go.mod
+  h_a187b1a47af8c8 239,244
+go.sum
+  h_a187b1a47af8c8 305,523,703,706,732-733,756
+inttest/etcdlearner/etcdlearner_test.go
+  h_a187b1a47af8c8 124
+pkg/apis/k0s/v1beta1/storage.go
+  h_a187b1a47af8c8 251-253,256-257,261
+pkg/apis/k0s/v1beta1/storage_test.go
+  h_a187b1a47af8c8 16-30
+pkg/backup/etcd_unix.go
+  h_a187b1a47af8c8 28-30,37-38,47
+pkg/backup/manager_unix.go
+  h_a187b1a47af8c8 74
+pkg/component/controller/apiserver_test.go
+  h_a187b1a47af8c8 103
+pkg/component/controller/etcd.go
+  h_a187b1a47af8c8 42-46,56-59,96-107,189,192-193,265-269,271,276,307-337,339,386-389,435,546-547,582
+pkg/component/controller/etcd_member_reconciler.go
+  h_a187b1a47af8c8 139,426,735
+pkg/component/controller/etcd_socket_linux_test.go
+  h_a187b1a47af8c8 1-96
+pkg/component/controller/etcd_socket_test.go
+  h_a187b1a47af8c8 1-48
+pkg/component/controller/etcd_unix_test.go
+  h_a187b1a47af8c8 1-188
+pkg/component/controller/metrics.go
+  h_a187b1a47af8c8 12,192-201,205
+pkg/config/cfgvars.go
+  h_a187b1a47af8c8 34,176
+pkg/constant/constant_unix.go
+  h_a187b1a47af8c8 13
+pkg/constant/constant_windows.go
+  h_a187b1a47af8c8 11
+pkg/etcd/client.go
+  h_a187b1a47af8c8 35,54
+pkg/etcd/health.go
+  h_a187b1a47af8c8 15-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7d56ec02a57bc4cdbaa8ee1ff539188d2f34f741",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

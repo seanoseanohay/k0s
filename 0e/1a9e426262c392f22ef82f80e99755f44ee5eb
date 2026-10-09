@@ -1,0 +1,19 @@
+internal/schemagen/testdata/cases.yaml
+  s_9bd743989b4250::t_dc87f4e24fc423 199-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e1a9e426262c392f22ef82f80e99755f44ee5eb",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+.github/workflows/build-docs.yml
+  s_9bd743989b4250::t_047b1e01f6006f 60
+.github/workflows/publish-docs.yml
+  s_9bd743989b4250::t_1ad7bc237b5aeb 74
+cmd/root.go
+  s_9bd743989b4250::t_1cf74dfcccff71 170
+cmd/root_test.go
+  s_9bd743989b4250::t_c8d899b7df965c 161
+docs/Makefile
+  s_9bd743989b4250::t_a9205b79295f4a 17,21,45,47,63-67,69-70
+docs/configuration.md
+  s_9bd743989b4250::t_7dbf78c3e4347d 38-43
+internal/schemagen/schemagen.go
+  s_9bd743989b4250::t_87f498671dc49f 123-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b3286c7f31a0fd65998e6a59488e9ffb5581f3dc",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

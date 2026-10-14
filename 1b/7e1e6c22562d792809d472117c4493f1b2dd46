@@ -1,0 +1,14 @@
+pkg/component/worker/nllb/apiserver.go
+  h_a187b1a47af8c8 7,33,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1b7e1e6c22562d792809d472117c4493f1b2dd46",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

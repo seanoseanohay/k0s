@@ -1,0 +1,55 @@
+cmd/root_test.go
+  s_9bd743989b4250::t_0472e16b9d68de 8,12-13,150-164
+  s_9bd743989b4250::t_3ec898378d5962 70
+cmd/root.go
+  s_9bd743989b4250::t_101f98236038d0 7-10,30,35,82-87,89-90,92-147,149-157,159-160,163-179,186-187
+  s_9bd743989b4250::t_6f270aa652b512 88,91
+  s_9bd743989b4250::t_c0b1971d2fcee1 180-185
+  s_9bd743989b4250::t_9e0fd919da9a51 188
+internal/schemagen/testdata/cases.yaml
+  s_9bd743989b4250::t_43dd6b4716bf20 1,5-7,25,28,34-40,56-58,73-76,85,151-152,156,158,214-218,240-244
+  s_9bd743989b4250::t_856d32a5998bd0 2-4,8-24,26-27,29-33,41-55,59-72,77-84,86-150,153-155,157,159-213,219-239,245-269
+internal/schemagen/schemagen_test.go
+  s_9bd743989b4250::t_ce7b74922676c7 4-123,130
+  s_9bd743989b4250::t_4a4000ec577a5a 1-3
+  s_9bd743989b4250::t_8cbe88974b46d8 124-129
+internal/schemagen/schemagen.go
+  s_9bd743989b4250::t_ce6ae87a7e647b 4-164,166,170,181,183,190,192,195-196,198
+  s_9bd743989b4250::t_1051cbc5b11e89 1-3
+  s_9bd743989b4250::t_7d514f12e2e5fb 165
+  s_9bd743989b4250::t_0d6fe3f59dfcaa 167-169
+  s_9bd743989b4250::t_9eaa85d5be6a8e 171-173,178-180
+  s_9bd743989b4250::t_a9e28dd304e1c0 182
+  s_9bd743989b4250::t_1b9e4514323822 184-189
+  s_9bd743989b4250::t_93893a63b41c51 191
+  s_9bd743989b4250::t_787e07fdf056f9 193-194
+  s_9bd743989b4250::t_edfd517a1fd9a9 197
+docs/configuration.md
+  s_9bd743989b4250::t_cbb2963304473e 45-49,53
+  s_9bd743989b4250::t_9f5e3739d5ba9b 55
+  s_9bd743989b4250::t_855a5858d237fa 42-44
+  s_9bd743989b4250::t_74f5a5b828bff8 50-52
+  s_9bd743989b4250::t_4fd416a3400bc8 54
+  s_9bd743989b4250::t_2ba303a6791898 56
+  s_9bd743989b4250::t_0c6ff978562fd8 36-41
+go.mod
+  s_9bd743989b4250::t_b5160b1c411fac 42
+pkg/apis/k0s/v1beta1/images.go
+  s_9bd743989b4250::t_eb4680cfa5b119 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ef88954cc6517c07ed27fd546421bb6e12bbf342",
+  "prompts": {},
+  "sessions": {
+    "s_9bd743989b4250": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08cb1-5e7c-77d0-bccf-a5f3053351e1",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

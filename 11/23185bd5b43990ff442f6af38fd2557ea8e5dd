@@ -1,0 +1,24 @@
+pkg/component/worker/nllb/apiserver_test.go
+  h_a187b1a47af8c8 1-50
+pkg/component/controller/kuberouter.go
+  h_a187b1a47af8c8 20,32,59,64,101-119,155-157
+cmd/controller/controller.go
+  h_a187b1a47af8c8 552
+pkg/component/controller/kubeproxy.go
+  h_a187b1a47af8c8 27,222-224,233-234
+pkg/component/controller/kuberouter_test.go
+  h_a187b1a47af8c8 41,93,152-176
+pkg/component/worker/nllb/apiserver.go
+  h_a187b1a47af8c8 1-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1123185bd5b43990ff442f6af38fd2557ea8e5dd",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

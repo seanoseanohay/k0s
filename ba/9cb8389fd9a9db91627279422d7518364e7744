@@ -1,0 +1,29 @@
+docs/k0s-in-docker.md
+  s_2f5ede6280aeb2::t_571f97d513e1d8 97-98,105,110,130,141
+docs/runtime.md
+  s_5091838e6e07e9::t_652d8e3d60bb87 161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ba9cb8389fd9a9db91627279422d7518364e7744",
+  "prompts": {},
+  "sessions": {
+    "s_2f5ede6280aeb2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16519-907e-7bd3-8fd8-0650d3f9443d",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    },
+    "s_5091838e6e07e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16513-d860-7380-92be-1403af3feb28",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

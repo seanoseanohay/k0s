@@ -1,0 +1,29 @@
+cmd/status/status.go
+  s_9776732f348d94::t_f24f20360c0d64 130-139
+pkg/component/status/client.go
+  s_bbcdc32eece2b0::t_02cb65bd670aa4 16-17,34,36,42-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b8d8a696472304d845c45734a2a0fa984e032237",
+  "prompts": {},
+  "sessions": {
+    "s_9776732f348d94": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16485-945b-7d23-bcc2-64d2933c08c7",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    },
+    "s_bbcdc32eece2b0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16486-ba5e-7bd3-ab32-8f7af872b6c5",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

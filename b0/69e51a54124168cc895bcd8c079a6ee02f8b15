@@ -1,0 +1,47 @@
+cmd/controller/controller_test.go
+  s_48187a4dee4c74::t_9dddcc8733556b 42,47
+cmd/internal/tokendata.go
+  s_00564a0968dedb::t_ded9ecd162d7f4 10-11,17-18,40-48
+cmd/internal/tokendata_test.go
+  s_e0bd45974857ce::t_f547d3fe5e97d7 7,12-13,83-113
+docs/architecture/index.md
+  s_48187a4dee4c74::t_60a718d8e47af2 34
+docs/k0s-in-docker.md
+  s_48187a4dee4c74::t_e6b255ef7576b8 104,109,129,140
+docs/runtime.md
+  s_48187a4dee4c74::t_a2baba65415af9 161
+docs/troubleshooting/troubleshooting.md
+  s_48187a4dee4c74::t_eda90711783628 143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b069e51a54124168cc895bcd8c079a6ee02f8b15",
+  "prompts": {},
+  "sessions": {
+    "s_00564a0968dedb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16483-2f56-7710-b31c-a674af1de020",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    },
+    "s_48187a4dee4c74": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16483-2b58-7701-ac88-73c8264b9f62",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    },
+    "s_e0bd45974857ce": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16488-73c6-71e2-b27a-65f37a1af999",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

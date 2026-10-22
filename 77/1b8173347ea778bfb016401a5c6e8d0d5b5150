@@ -1,0 +1,16 @@
+pkg/component/worker/containerd/component.go
+  h_a187b1a47af8c8 22
+pkg/component/worker/ocibundle.go
+  h_a187b1a47af8c8 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "771b8173347ea778bfb016401a5c6e8d0d5b5150",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

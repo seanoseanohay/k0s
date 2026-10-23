@@ -1,0 +1,26 @@
+cmd/status/status.go
+  h_a187b1a47af8c8 132-134
+cmd/status/status_test.go
+  h_a187b1a47af8c8 42-44
+docs/install.md
+  h_a187b1a47af8c8 102-104
+docs/k0s-multi-node.md
+  h_a187b1a47af8c8 177-179
+pkg/component/status/cni.go
+  h_a187b1a47af8c8 26-30,71
+pkg/component/status/cni_test.go
+  h_a187b1a47af8c8 169,293,306,320
+pkg/component/status/status.go
+  h_a187b1a47af8c8 36,41-45,60-64,68-69,73-74,148-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5b813668c0ce2a6cd012de2aad10505823b8df32",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

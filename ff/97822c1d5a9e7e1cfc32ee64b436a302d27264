@@ -1,0 +1,23 @@
+mkdocs.yml
+  s_0976ef604fb9ad::t_99bb2cef4fa141 23
+docs/build-custom-image.md
+  s_0976ef604fb9ad::t_99bb2cef4fa141 1-140
+docs/k0s-in-docker.md
+  s_0976ef604fb9ad::t_99bb2cef4fa141 10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ff97822c1d5a9e7e1cfc32ee64b436a302d27264",
+  "prompts": {},
+  "sessions": {
+    "s_0976ef604fb9ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19d4f-2937-78d2-be71-71a9b2e90252",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

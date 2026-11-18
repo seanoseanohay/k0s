@@ -1,0 +1,14 @@
+pkg/component/status/cni_test.go
+  h_a187b1a47af8c8 224,239,262,276,406,513,516
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8bec7e8838b17eb7f5fe32dc7eddfc8618a399fd",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

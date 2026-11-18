@@ -1,0 +1,20 @@
+cmd/status/status.go
+  h_a187b1a47af8c8 133-134
+cmd/status/status_test.go
+  h_a187b1a47af8c8 43-44
+docs/install.md
+  h_a187b1a47af8c8 103-104
+docs/k0s-multi-node.md
+  h_a187b1a47af8c8 178-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d2eca51c3359b21fd5342f751e7e45907d38719",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

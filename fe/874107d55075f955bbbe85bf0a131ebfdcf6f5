@@ -1,0 +1,20 @@
+cmd/controller/controller.go
+  h_a187b1a47af8c8 555
+pkg/component/status/cni.go
+  h_a187b1a47af8c8 25-30,70,78,84,89-93,100-103,105,107-108,110-114
+pkg/component/status/cni_test.go
+  h_a187b1a47af8c8 29,39,52,62,70,83,95,108,121,132,146,156,166,176,189,202,212,225,239,248,261,268-277,284,296,309,323,413,544-547
+pkg/component/status/status.go
+  h_a187b1a47af8c8 36-38,193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fe874107d55075f955bbbe85bf0a131ebfdcf6f5",
+  "prompts": {},
+  "humans": {
+    "h_a187b1a47af8c8": {
+      "author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

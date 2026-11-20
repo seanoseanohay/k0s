@@ -1,0 +1,23 @@
+cmd/controller/controller.go
+  s_a1bb9d6e666614::t_39934cd7092a06 450-451
+pkg/component/status/cni_test.go
+  s_a1bb9d6e666614::t_7ac2e5dcf25319 25-27,52,62,72,83,92,105,130,143,168,178,188,198,211,224,233,247,260,270,283,293,305,318,331,346,349,351-355,358,362,364,368,372,374,378,382,384,388,392,394,401,408,420,462,472,496-498,510-513,516-519
+pkg/component/status/status.go
+  s_a1bb9d6e666614::t_91e67e97b2a5f5 29-35,67,154-156,177,183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2a05ba653f9eb2f3f4365c9743be9b34b9c3de4b",
+  "prompts": {},
+  "sessions": {
+    "s_a1bb9d6e666614": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "de86f9d0-5a7d-4216-8c44-dfc18cbddf2a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}

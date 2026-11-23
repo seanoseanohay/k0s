@@ -1,0 +1,20 @@
+pkg/component/status/cni_test.go
+  s_fcd6a37554df26::t_d197d92539d28e 10-12,14,33,38,49,57,68,75,83-84,87,98,106-107,110,118-119,122,132,139,144,152,160,168,176-177,180-183,191-192,195-198,206,213,221,228,236,244,252,262,273,285,292,297-299,305-308,313-316,319,321-328,333-339,344-345,347-349,365-366,370-371,402-403,408-410,416-524
+  s_fcd6a37554df26::t_1061bafe46b7b4 525
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02519f74d1da683d8a3ac263c654f338aaee942d",
+  "prompts": {},
+  "sessions": {
+    "s_fcd6a37554df26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a1ef7f-bf4b-77d2-8844-187c08815c38",
+        "model": "unknown"
+      },
+      "human_author": "Lawrence Lee Keener <lawrence@replicated.com>"
+    }
+  }
+}
